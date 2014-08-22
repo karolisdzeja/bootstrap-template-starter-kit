@@ -1,10 +1,10 @@
 {
   "name": "Harp-Gulp-And-BrowserSync",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The dependencies needed for the HGB boilerplate",
   "private": true,
   "main": "gulpfile.js",
-  "author": "Charlie Gleason",
+  "author": "Karolis Dzeja",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.8.5",
