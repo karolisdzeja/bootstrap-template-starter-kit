@@ -7,6 +7,7 @@ You can set it with:
 ```console
 mkdir template
 cd template
+npm install -g harp
 harp init src --boilerplate karolisdzeja/bootstrap-template-starter-kit
 cd src
 npm install
